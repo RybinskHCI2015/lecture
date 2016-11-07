@@ -15,7 +15,7 @@ github используется для размещения заданий и п
 
 - 08.09.2016 - ... Вступительные лекции. Оригинальные видео https://www.dropbox.com/sh/ve4w3aafvmoyy6z/AAAU50XYbcxQ4Y4ErlPNqtzea?dl=0
 - 28.09.2016 - Поиск потребностей. https://www.dropbox.com/sh/49m7ti616csvk0c/AADSys-1fQ7kNsNq8awNU47ca?dl=0
-
+- 07.11.2016 - Быстрое прототипирование. https://www.dropbox.com/sh/1g38aczn4uh044m/AAD2Fq5MxcCtWbuiJ-9iicD2a?dl=0
 # Лабораторные работы
 
 Для того, что бы сдать лабораторную работу, необходимо:
@@ -36,3 +36,9 @@ github используется для размещения заданий и п
 Выполнить до 09.10.2016
 
 Для создания клона своего задания перейдите https://classroom.github.com/assignment-invitations/3be5ddf550218c5870cc4d40557e64cd
+
+### Задание 2. Быстрое прототипирвоание
+
+Выполнить до 24.11.2016
+
+Для создания клона своего задания перейдите https://classroom.github.com/assignment-invitations/980bcf230d54109794bc78cb53cf7c4c
